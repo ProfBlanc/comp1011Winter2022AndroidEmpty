@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">comp1011Winter2022AndroidEmpty</string>
+    <string name="main_activity_button">Click Me!</string>
+    <string name="calculator_welcome">Welcome to Calculator</string>
+    <string name="calculator_result">Click Calculate Button</string>
+    <string name="calculator_num1">Enter first number</string>
+    <string name="calculator_num2">Enter second number</string>
+    <string name="calculator_button">Calculate!</string>
+    <string name="splash_description">Cool Splash Image</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_main">Main Activity</string>
+    <string name="menu_calculator">Calculator</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_camera">Camera</string>
+    <string name="menu_storage">Storage</string>
+    <string name="menu_listing">Listing</string>
+
+
+    <string-array name="operators">
+        <item>+</item>
+        <item>+</item>
+        <item>x</item>
+        <item>/</item>
+    </string-array>
+
+</resources>

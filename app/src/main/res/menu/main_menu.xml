@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/menu_home"
+        >
+    </item>
+    <item
+        android:id="@+id/menu_main"
+        android:title="@string/menu_main"
+        >
+    </item>
+    <item
+        android:id="@+id/menu_calculator"
+        android:title="@string/menu_calculator"
+        >
+    </item>
+    <item
+        android:id="@+id/menu_gallery"
+        android:title="@string/menu_gallery"
+        >
+    </item>
+    <item
+        android:id="@+id/menu_camera"
+        android:title="@string/menu_camera"
+        >
+    </item>
+    <item
+        android:id="@+id/menu_storage"
+        android:title="@string/menu_storage"
+        >
+    </item>
+    <item
+        android:id="@+id/menu_listing"
+        android:title="@string/menu_listing"
+        >
+    </item>
+
+</menu>

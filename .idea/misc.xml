@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Benny Boom/AndroidStudioProjects/comp1011Winter2022AndroidEmpty/app/src/main/res/layout/activity_calculator.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/Benny Boom/AndroidStudioProjects/comp1011Winter2022AndroidEmpty/app/src/main/res/layout/activity_camera.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Benny Boom/AndroidStudioProjects/comp1011Winter2022AndroidEmpty/app/src/main/res/layout/activity_gallery.xml" value="0.2" />
+        <entry key="..\:/Users/Benny Boom/AndroidStudioProjects/comp1011Winter2022AndroidEmpty/app/src/main/res/layout/activity_listing.xml" value="0.17452830188679244" />
+        <entry key="..\:/Users/Benny Boom/AndroidStudioProjects/comp1011Winter2022AndroidEmpty/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Benny Boom/AndroidStudioProjects/comp1011Winter2022AndroidEmpty/app/src/main/res/layout/activity_splash.xml" value="0.176" />
+        <entry key="..\:/Users/Benny Boom/AndroidStudioProjects/comp1011Winter2022AndroidEmpty/app/src/main/res/layout/activity_storage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Benny Boom/AndroidStudioProjects/comp1011Winter2022AndroidEmpty/app/src/main/res/layout/individual_list_item_layout.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Benny Boom/AndroidStudioProjects/comp1011Winter2022AndroidEmpty/app/src/main/res/menu/main_menu.xml" value="0.16458333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
